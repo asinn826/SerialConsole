@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/asinn826/SerialConsole/master/enable_sysrq_nmi.sh"],
+  "commandToExecute": "./enable_sysrq_nmi.sh"
+}
